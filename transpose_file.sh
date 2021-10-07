@@ -1,3 +1,4 @@
+## transpose row to column data 
 cp $1 awk_temp.dat
 awk '
 { 
