@@ -1,0 +1,18 @@
+MOF       ! Molecule ID
+5         ! Total type of atoms
+576 O     No of atoms of each kind
+768 C
+544 H
+96 N
+128 Ti
+1 1 1      ! periodicity
+NEW.car    ! Name of the Car file
+Output_file.gro  ! Name of the output file
+
+CO2        ! if you have other molecule
+2          ! total kind of atoms
+1 C        ! no of atoms of each kind
+2 O    
+0          ! total no of molecules
+
+
